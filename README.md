@@ -24,4 +24,4 @@ Para mais informações consulte:
 
 # Citação do Projeto (Para Terceiros):
 
-Pequeno dos Santos, Erika. (2025). Fatores preditores do nível de senioridade na área de dados - Projeto Aplicado PosCDIA. Trabalho de Conclusão de Pós-Graduação. GitHub. URL do Repositório.
+Pequeno dos Santos, Erika. (2025). Fatores preditores do nível de senioridade na área de dados - Projeto Aplicado PosCDIA. Trabalho de Conclusão de Pós-Graduação. GitHub. [URL do Repositório](https://github.com/ErikaPequeno/Projeto_Final_CDIA.git).
