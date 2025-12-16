@@ -140,6 +140,8 @@ from sklearn.metrics import accuracy_score
 from sklearn.feature_selection import SelectKBest, f_classif
 from sklearn.tree import DecisionTreeClassifier, export_graphviz, plot_tree
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
 """## Download / importação do conjunto de dados e Criação do pandas dataframe para armazenamento dos dados"""
 
@@ -968,7 +970,7 @@ df_modelo = df_projeto[colunas_modelo]
 # modelo para femenino
 # df_modelo = df_modelo[df_modelo['3_genero_masc'] == False]
 # modelo para masculino
-df_modelo = df_modelo[df_modelo['3_genero_masc'] == True]
+# df_modelo = df_modelo[df_modelo['3_genero_masc'] == True]
 
 """Variação da profundidade..."""
 
